@@ -1,0 +1,16 @@
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.deps.json
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.runtimeconfig.json
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.pdb
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.pdb
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.csproj.CopyComplete
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.pdb
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DataAccess\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DataAccess.genruntimeconfig.cache

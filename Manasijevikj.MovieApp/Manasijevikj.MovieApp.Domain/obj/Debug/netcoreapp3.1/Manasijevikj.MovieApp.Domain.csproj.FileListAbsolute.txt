@@ -1,0 +1,13 @@
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.deps.json
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.runtimeconfig.json
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.pdb
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.pdb
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Domain\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.genruntimeconfig.cache

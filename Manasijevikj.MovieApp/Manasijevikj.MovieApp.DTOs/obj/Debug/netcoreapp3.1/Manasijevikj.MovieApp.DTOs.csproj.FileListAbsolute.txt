@@ -1,0 +1,13 @@
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.deps.json
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.pdb
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.pdb
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.csproj.CopyComplete
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.DTOs\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.pdb

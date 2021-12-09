@@ -1,0 +1,15 @@
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Mappers.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Mappers.deps.json
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Mappers.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Mappers.pdb
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Domain.pdb
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.DTOs.pdb
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Mappers.csproj.CopyComplete
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Mappers.dll
+C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Mappers\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Mappers.pdb

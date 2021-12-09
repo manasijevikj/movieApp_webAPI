@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Manasijevikj.MovieApp.Shared/1.0.0": {
+        "runtime": {
+          "Manasijevikj.MovieApp.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manasijevikj.MovieApp.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

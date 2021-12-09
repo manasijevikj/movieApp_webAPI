@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Manasijevikj.MovieApp.DataAccess\Manasijevikj.MovieApp.DataAccess.csproj" />
+    <ProjectReference Include="..\Manasijevikj.MovieApp.Domain\Manasijevikj.MovieApp.Domain.csproj" />
+    <ProjectReference Include="..\Manasijevikj.MovieApp.Mappers\Manasijevikj.MovieApp.Mappers.csproj" />
+    <ProjectReference Include="..\Manasijevikj.MovieApp.Shared\Manasijevikj.MovieApp.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
