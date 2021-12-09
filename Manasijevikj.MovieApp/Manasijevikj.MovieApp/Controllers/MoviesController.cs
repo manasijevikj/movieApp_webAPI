@@ -54,6 +54,20 @@ namespace Manasijevikj.MovieApp.Controllers
             }
         }
 
+        [HttpPost("addMovie")]
+        public ActionResult<MovieDTO> AddNewMovie([FromBody] MovieDTO movieDTO)
+        {
+            try
+            {
+                _movieService.AddNewMovie(movieDTO);
+                return StatusCode(StatusCodes.Status201Created, "Movie created");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Server error");
+            }
+        }
+
 
     }
 }

@@ -32,7 +32,7 @@ namespace Manasijevikj.MovieApp.Services.Impementations
             Movie movie = _movieRepository.GetById(id);
             if (movie == null)
             {
-                throw new Exception("Movie not found");
+                throw new ResourceNotFoundException("Movie not found");
             }
             _movieRepository.Delete(movie.Id);
         }
