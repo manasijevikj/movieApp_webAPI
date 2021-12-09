@@ -60,5 +60,6 @@ namespace Manasijevikj.MovieApp.Services.Impementations
             Director director = directorDTO.ToDirector();
             _directorRepository.Update(director);
         }
+
     }
 }
