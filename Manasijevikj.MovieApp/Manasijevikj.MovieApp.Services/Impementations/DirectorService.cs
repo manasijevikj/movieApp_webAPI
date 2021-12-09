@@ -4,6 +4,7 @@ using Manasijevikj.MovieApp.DTOs.DirectorDTOs;
 using Manasijevikj.MovieApp.DTOs.MovieDTOs;
 using Manasijevikj.MovieApp.Mappers;
 using Manasijevikj.MovieApp.Services.Interfaces;
+using Manasijevikj.MovieApp.Shared.CustomExceptions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,7 +30,7 @@ namespace Manasijevikj.MovieApp.Services.Impementations
             Director director = _directorRepository.GetById(id);
             if (director == null)
             {
-                throw new Exception("Director not found");
+                throw new ResourceNotFoundException("Director not found");
             }
             _directorRepository.Delete(director.Id);
         }
@@ -49,7 +50,7 @@ namespace Manasijevikj.MovieApp.Services.Impementations
             Director director = _directorRepository.GetById(id);
             if (director == null)
             {
-                throw new Exception("Director not found");
+                throw new ResourceNotFoundException("Director not found");
             }
             return director.ToDirectorDTO();
         }
