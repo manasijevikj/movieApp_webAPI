@@ -8,3 +8,13 @@ C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.
 C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.csproj.CoreCompileInputs.cache
 C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.dll
 C:\Users\aleks\Desktop\Manasijevikj.MovieApp\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.deps.json
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.dll
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\bin\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.dll
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp.Shared\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.Shared.pdb

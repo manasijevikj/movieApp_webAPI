@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j+pb2qM4nt02k5h87UCZoHTN8S+vGJiaQdMmv2nR52sy7/b8DbhsNRBWMBYn0HPntleKGd7eg4UZdpuzc7L2JQ==",
+  "dgSpecHash": "VP2bsR3+qWaTy23Tcg6cF3MCntwytXXypJPB4ADFbvBb+0IcuDt5ie8tnMP15l+C84dUDyUcNVTJXsQpPMIqZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleks\\Desktop\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Mappers\\Manasijevikj.MovieApp.Mappers.csproj",
+  "projectFilePath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\movieApp_webAPI\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Mappers\\Manasijevikj.MovieApp.Mappers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleks\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\aleks\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

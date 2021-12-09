@@ -4969,11 +4969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleks\\Desktop\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Mappers\\Manasijevikj.MovieApp.Mappers.csproj",
+      "projectUniqueName": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\movieApp_webAPI\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Mappers\\Manasijevikj.MovieApp.Mappers.csproj",
       "projectName": "Manasijevikj.MovieApp.Mappers",
-      "projectPath": "C:\\Users\\aleks\\Desktop\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Mappers\\Manasijevikj.MovieApp.Mappers.csproj",
+      "projectPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\movieApp_webAPI\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Mappers\\Manasijevikj.MovieApp.Mappers.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleks\\Desktop\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Mappers\\obj\\",
+      "outputPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\movieApp_webAPI\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Mappers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4994,11 +4994,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\aleks\\Desktop\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Domain\\Manasijevikj.MovieApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\aleks\\Desktop\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Domain\\Manasijevikj.MovieApp.Domain.csproj"
+            "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\movieApp_webAPI\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Domain\\Manasijevikj.MovieApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\movieApp_webAPI\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.Domain\\Manasijevikj.MovieApp.Domain.csproj"
             },
-            "C:\\Users\\aleks\\Desktop\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.DTOs\\Manasijevikj.MovieApp.DTOs.csproj": {
-              "projectPath": "C:\\Users\\aleks\\Desktop\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.DTOs\\Manasijevikj.MovieApp.DTOs.csproj"
+            "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\movieApp_webAPI\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.DTOs\\Manasijevikj.MovieApp.DTOs.csproj": {
+              "projectPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\movieApp_webAPI\\Manasijevikj.MovieApp\\Manasijevikj.MovieApp.DTOs\\Manasijevikj.MovieApp.DTOs.csproj"
             }
           }
         }

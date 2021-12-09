@@ -6,9 +6,9 @@ namespace Manasijevikj.MovieApp.Shared.CustomExceptions
 {
     public class ResourceNotFoundException : Exception
     {
-        public ResourceNotFoundException(int id, string message) : base(message)
+        public ResourceNotFoundException(string message) : base(message)
         {
-
+            //log id
         }
     }
 }

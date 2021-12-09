@@ -44,11 +44,11 @@ namespace Manasijevikj.MovieApp.Controllers
             {
                 return StatusCode(StatusCodes.Status200OK, _movieService.GetById(id));
             }
-            catch (ResourceNotFoundException ex)
+            catch (ResourceNotFoundException e)
             {
-                return StatusCode(StatusCodes.Status404NotFound, ex.Message);
+                return StatusCode(StatusCodes.Status404NotFound, e.Message);
             }
-            catch (Exception ex)
+            catch (Exception e)
             {
                 return StatusCode(StatusCodes.Status500InternalServerError, "Server error");
             }

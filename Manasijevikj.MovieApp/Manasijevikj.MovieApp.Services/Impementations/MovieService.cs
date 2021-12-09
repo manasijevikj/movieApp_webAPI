@@ -3,6 +3,7 @@ using Manasijevikj.MovieApp.Domain.Models;
 using Manasijevikj.MovieApp.DTOs.MovieDTOs;
 using Manasijevikj.MovieApp.Mappers;
 using Manasijevikj.MovieApp.Services.Interfaces;
+using Manasijevikj.MovieApp.Shared.CustomExceptions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -46,7 +47,7 @@ namespace Manasijevikj.MovieApp.Services.Impementations
             Movie movie = _movieRepository.GetById(id);
             if (movie == null)
             {
-                throw new Exception("Movie not found");
+                throw new ResourceNotFoundException("Movie not found");
             }
             return movie.ToMovieDTO();
         }
