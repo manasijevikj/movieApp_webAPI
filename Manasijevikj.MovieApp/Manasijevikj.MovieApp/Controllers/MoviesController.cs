@@ -2,6 +2,7 @@
 using Manasijevikj.MovieApp.DTOs.MovieDTOs;
 using Manasijevikj.MovieApp.Services.Interfaces;
 using Manasijevikj.MovieApp.Shared.CustomExceptions;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -11,6 +12,7 @@ using System.Threading.Tasks;
 
 namespace Manasijevikj.MovieApp.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class MoviesController : ControllerBase
@@ -56,6 +58,7 @@ namespace Manasijevikj.MovieApp.Controllers
         }
 
         [HttpPost("addMovie")]
+        [Authorize(Roles = "Admin")]
         public ActionResult<MovieDTO> AddNewMovie([FromBody] AddUpdateMovieDTO addMovieDTO)
         {
             try
@@ -91,6 +94,7 @@ namespace Manasijevikj.MovieApp.Controllers
 
 
         [HttpPut("updateMovie")]
+        [Authorize(Roles = "Admin")]
         public IActionResult UpdateMovie([FromBody] AddUpdateMovieDTO updateMovieDTO)
         {
             try
@@ -110,6 +114,7 @@ namespace Manasijevikj.MovieApp.Controllers
         }
 
         [HttpGet("filterByGenreYear")]
+        [AllowAnonymous]
         public ActionResult<List<MovieDTO>> Filter(MovieGenre genre, int year)
         {
             try
