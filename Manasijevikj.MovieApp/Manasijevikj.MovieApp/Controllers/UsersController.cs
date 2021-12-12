@@ -26,11 +26,11 @@ namespace Manasijevikj.MovieApp.Controllers
 
         [HttpPost("register")]
         [AllowAnonymous] //the user that sends the request can be unauthenticated
-        public IActionResult Register([FromBody] RegisterUserDTO registerUserDto)
+        public IActionResult Register([FromBody] RegisterUserDTO registerUserDTO)
         {
             try
             {
-                _userService.Register(registerUserDto);
+                _userService.Register(registerUserDTO);
                 return StatusCode(StatusCodes.Status201Created, "User registered!");
             }
             catch (UserException e)
@@ -45,11 +45,11 @@ namespace Manasijevikj.MovieApp.Controllers
 
         [HttpPost("login")]
         [AllowAnonymous] //the user that sends the request can be unauthenticated
-        public ActionResult<string> Login([FromBody] LoginUserDTO loginDto)
+        public ActionResult<string> Login([FromBody] LoginUserDTO loginDTO)
         {
             try
             {
-                string token = _userService.Login(loginDto);
+                string token = _userService.Login(loginDTO);
                 return Ok(token);
             }
             catch (Exception e)

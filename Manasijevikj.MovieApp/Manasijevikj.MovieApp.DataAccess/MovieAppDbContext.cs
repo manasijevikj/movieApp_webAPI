@@ -127,36 +127,6 @@ namespace Manasijevikj.MovieApp.DataAccess
                     Country = "USA"
                 });
 
-            modelBuilder.Entity<User>()
-                .HasData(new User()
-                {
-                    Id = 1,
-                    FirstName = "Aleksandar",
-                    LastName = "Manasijevikj",
-                    Username = "am91",
-                    Password = "Test123!",
-                    Role = "User"
-                },
-                new User()
-                {
-                    Id = 2,
-                    FirstName = "Ana",
-                    LastName = "Jovkovska",
-                    Username = "aj94",
-                    Password = "Test456!",
-                    Role = "SuperAdmin"
-                },
-                new User()
-                {
-                    Id = 3,
-                    FirstName = "Sara",
-                    LastName = "Dimitrovska",
-                    Username = "sd99",
-                    Password = "Test789!",
-                    Role = "Admin"
-                });
-
-
         }
 
 
