@@ -41,6 +41,7 @@ namespace Manasijevikj.MovieApp.Controllers
 
 
         [HttpGet("{id}")]
+        [Authorize(Roles = "User")]
         public ActionResult<MovieDTO> GetMovie(int id)
         {
             try
