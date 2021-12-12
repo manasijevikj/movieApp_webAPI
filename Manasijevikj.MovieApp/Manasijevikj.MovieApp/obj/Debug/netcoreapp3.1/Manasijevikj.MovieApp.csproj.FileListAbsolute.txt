@@ -142,3 +142,11 @@ C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manas
 C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.dll
 C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.pdb
 C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp\obj\Debug\netcoreapp3.1\Manasijevikj.MovieApp.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\Coding\GitHub\movieApp_webAPI\Manasijevikj.MovieApp\Manasijevikj.MovieApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

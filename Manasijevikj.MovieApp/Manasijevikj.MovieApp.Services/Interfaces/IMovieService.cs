@@ -8,8 +8,8 @@ namespace Manasijevikj.MovieApp.Services.Interfaces
     {
         List<MovieDTO> GetAll();
         MovieDTO GetById(int id);
-        void AddNewMovie(MovieDTO entity);
+        void AddNewMovie(AddUpdateMovieDTO entity);
         void DeleteMovie(int id);
-        void UpdateMovie(MovieDTO movieDTO);
+        void UpdateMovie(AddUpdateMovieDTO movieDTO);
     }
 }

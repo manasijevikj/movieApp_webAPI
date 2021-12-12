@@ -56,11 +56,11 @@ namespace Manasijevikj.MovieApp.Controllers
         }
 
         [HttpPost("addMovie")]
-        public ActionResult<MovieDTO> AddNewMovie([FromBody] MovieDTO movieDTO)
+        public ActionResult<MovieDTO> AddNewMovie([FromBody] AddUpdateMovieDTO addMovieDTO)
         {
             try
             {
-                _movieService.AddNewMovie(movieDTO);
+                _movieService.AddNewMovie(addMovieDTO);
                 return StatusCode(StatusCodes.Status201Created, "Movie created");
             }
             catch (Exception e)
@@ -91,11 +91,11 @@ namespace Manasijevikj.MovieApp.Controllers
 
 
         [HttpPut("updateMovie")]
-        public IActionResult UpdateMovie([FromBody] MovieDTO movieDTO)
+        public IActionResult UpdateMovie([FromBody] AddUpdateMovieDTO updateMovieDTO)
         {
             try
             {
-                _movieService.UpdateMovie(movieDTO);
+                _movieService.UpdateMovie(updateMovieDTO);
                 return StatusCode(StatusCodes.Status202Accepted);
 
             }

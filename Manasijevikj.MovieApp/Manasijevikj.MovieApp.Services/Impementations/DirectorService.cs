@@ -14,6 +14,7 @@ namespace Manasijevikj.MovieApp.Services.Impementations
     public class DirectorService : IDirectorService
     {
         private IRepository<Director> _directorRepository;
+
         public DirectorService(IRepository<Director> directorRepository)
         {
             _directorRepository = directorRepository;

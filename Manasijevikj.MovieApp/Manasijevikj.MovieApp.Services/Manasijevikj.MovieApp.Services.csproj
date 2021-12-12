@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Manasijevikj.MovieApp.DataAccess\Manasijevikj.MovieApp.DataAccess.csproj" />
     <ProjectReference Include="..\Manasijevikj.MovieApp.Domain\Manasijevikj.MovieApp.Domain.csproj" />
     <ProjectReference Include="..\Manasijevikj.MovieApp.Mappers\Manasijevikj.MovieApp.Mappers.csproj" />

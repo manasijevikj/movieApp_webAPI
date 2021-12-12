@@ -21,14 +21,18 @@ namespace Manasijevikj.MovieApp.Services.Impementations
 
 
 
-        public void AddNewMovie(MovieDTO entity)
+        public void AddNewMovie(AddUpdateMovieDTO entity)
         {
-            Movie newMovie = entity.ToMovie();
+            Movie newMovie = new Movie(); // Autoincrement ID
+            int id = newMovie.Id;
+            newMovie = entity.ToMovie();
+            newMovie.Id = id;
             _movieRepository.Insert(newMovie);
         }
 
         public void DeleteMovie(int id)
         {
+            
             Movie movie = _movieRepository.GetById(id);
             if (movie == null)
             {
@@ -51,10 +55,23 @@ namespace Manasijevikj.MovieApp.Services.Impementations
             }
             return movie.ToMovieDTO();
         }
-
-        public void UpdateMovie(MovieDTO movieDTO)
+         
+        public void UpdateMovie(AddUpdateMovieDTO updateMovieDTO)
         {
-            Movie movie = movieDTO.ToMovie();
+            Movie movie = _movieRepository.GetById(updateMovieDTO.Id);
+            if (movie == null)
+            {
+                throw new ResourceNotFoundException($"Movie with id {updateMovieDTO.Id} was not found");
+            }
+
+            //Don't forget Validation 
+
+            movie.Title = updateMovieDTO.Title;
+            movie.Description = updateMovieDTO.Description;
+            movie.Year = updateMovieDTO.Year;
+            movie.Genre = updateMovieDTO.Genre;
+            movie.DirectorId = updateMovieDTO.DirectorId;
+
             _movieRepository.Update(movie);
         }
     }
